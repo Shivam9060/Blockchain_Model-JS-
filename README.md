@@ -29,13 +29,13 @@ To get started with this project, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/blockchain-model.git
+   git clone https://github.com/Shivam9060/Blockchain_Model-JS-.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd blockchain-model
+   cd Blockchain_Model-JS-
    ```
 
 3. Install the required dependencies:
